@@ -69,7 +69,7 @@ Scrape all tiki product
  ![image](https://user-images.githubusercontent.com/63096813/114338277-f2ff4e00-9b7c-11eb-80ae-24fbba597569.png)
 
 
-14.	WHAT THE HELL IS GOING ON!!!! SOMETHING HAPPENNED!
+14.	WHAT THE HELL IS GOING ON!!!! SOMETHING HAPPENNED! OH, It only affects on Chrome layout
 
  ![image](https://user-images.githubusercontent.com/63096813/114338291-fabef280-9b7c-11eb-9427-3b6a912900a6.png)
 
