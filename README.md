@@ -46,7 +46,7 @@ Scrape all tiki product
  
 9.	Create Products table:
  
- ![image](https://user-images.githubusercontent.com/63096813/114338236-dbc06080-9b7c-11eb-8cce-47ebd33b2584.png)
+ ![image](https://user-images.githubusercontent.com/63096813/114339824-5474ec00-9b80-11eb-92fa-8f05823ec427.png)
 
 
 10.	Create Class Product to store product attributes, use product_sku as ID
