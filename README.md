@@ -74,7 +74,8 @@ Scrape all tiki product
  ![image](https://user-images.githubusercontent.com/63096813/114338291-fabef280-9b7c-11eb-9427-3b6a912900a6.png)
 
 Actually we have another solution to do bulk import data to SQL in short time but we want to follow the project structure to check duplication and import data row by row and get real NIGHTMARE.
-	Wow, after 32m, all products imported to database
+
+Wow, after 32m, all products imported to database
  
  ![image](https://user-images.githubusercontent.com/63096813/114338303-03172d80-9b7d-11eb-9bbb-ca3950d35eb2.png)
 
