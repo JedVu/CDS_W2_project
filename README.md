@@ -4,6 +4,7 @@ Scrape all tiki product
 
 
 1.	Choose 3 categories to scrape:
+
  ![image](https://user-images.githubusercontent.com/63096813/114338014-65236300-9b7c-11eb-98b5-674eb7c98f7b.png)
 
 2.	Get all categories in 3 main_categories, we have 180 categories
