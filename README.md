@@ -1,6 +1,6 @@
-# CDS_W2_project
-Scrape all tiki product
+# Web-scraping
 
+Scrape all tiki product
 
 
 1.	Choose 3 categories to scrape:
