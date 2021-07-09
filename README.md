@@ -98,8 +98,6 @@ Wow, after 32m, all products imported to database
 
 18.	Which category/product has the highest reviews or ratings ...?
 
-
- 
 19.	This week project we learned:
           - read code, understand code, copy, paste and edit code.
           - print to view result first
